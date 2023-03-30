@@ -3,6 +3,7 @@
     font-style: italic;
 }
 
+
 img{
     width: 320px;
 }
@@ -10,6 +11,8 @@ img{
 .pricelist{
     font-size: 25px;
     font-weight: bold;
+    padding-bottom: 20px;
+    text-align: center;
 }
 
 .table1{
@@ -39,5 +42,5 @@ footer{
 
 body{
     background-color: #e6f3ff;
-    padding: 10px;
+    margin: 0px;
 }
